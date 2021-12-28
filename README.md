@@ -8,7 +8,7 @@ Candado se busca: <b>!kekosebusca ejemplo1 ejemplo2 4/5/2000</b>
 Candado de amor: <b>!kekoamor ejemplo1 ejemplo2 4/5/2008</b>
 
 
-<img src="https://i.imgur.com/qrFL1Fk.png">
+<img src="https://i.imgur.com/Qyl5afC.png">
 
 
 Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-370/
