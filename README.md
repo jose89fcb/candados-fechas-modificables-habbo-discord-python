@@ -1,11 +1,11 @@
 
 Comandos a usar:
 <br>
-Candado Halloween: <b>!kekoween ejemplo1 jemeplo2</b>
+Candado Halloween: <b>!kekoween ejemplo1 ejemplo2 4/5/2004</b>
 <br>
-Candado se busca: <b>!kekosebusca ejemplo1 jemeplo2</b>
+Candado se busca: <b>!kekosebusca ejemplo1 ejemplo2 4/5/2000</b>
 <br>
-Candado de amor: <b>!kekoamor ejemplo1 ejemplo2</b>
+Candado de amor: <b>!kekoamor ejemplo1 ejemplo2 4/5/2008</b>
 
 
 <img src="https://i.imgur.com/qrFL1Fk.png">
